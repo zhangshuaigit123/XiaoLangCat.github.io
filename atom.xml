@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>小郎的喵喵</title>
+  <title>小郎的喵喵&#39;s Blog</title>
   
-  
+  <subtitle>小郎的喵喵&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="mrzhangfish.tk/"/>
