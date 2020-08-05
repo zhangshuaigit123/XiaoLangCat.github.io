@@ -13,3 +13,8 @@ Disallow: /medias/
 Disallow: /page/
 Disallow: /tags/
 Disallow: /categories/
+
+
+
+Sitemap: https://www.mrzhangfish.tk/sitemap.xml
+Sitemap: https://www.mrzhangfish.tk/baidusitemap.xml

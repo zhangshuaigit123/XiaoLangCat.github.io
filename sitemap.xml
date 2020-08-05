@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.mrzhangfish.tk/posts/aae3.html</loc>
+    <loc>https://www.mrzhangfish.tk/zhong-mei-zui-qiang-de-vps-xuan-gou-dian-xin-jing-pin-wang-luo-cn2-gia-xian-lu.html</loc>
+    
+    <lastmod>2020-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/mei-guo-feng-jin-tiktok-duo-guo-gen-feng-wei-ruan-xun-qiu-shou-gou-tiktok-ri-hou-he-qu-he-cong.html</loc>
+    
+    <lastmod>2020-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/tik-tok-dou-yin-guo-ji-ban-zui-xin-ban-shi-yong-jiao-cheng-an-zhuo-ban.html</loc>
+    
+    <lastmod>2020-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/guo-ji-ban-dou-yin-tik-tok-xia-zai-an-zhuang-shi-yong-jiao-cheng-tu-wen-xiang-jie-tik-tok-wei-shi-me-zhe-me-huo.html</loc>
     
     <lastmod>2020-08-04</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.mrzhangfish.tk/posts/db74.html</loc>
+    <loc>https://www.mrzhangfish.tk/tik-tok-dou-yin-guo-ji-ban-guo-nei-shou-ji-shi-yong-fang-fa-ji-chang-jian-wen-ti-jie-da-chi-xu-geng-xin.html</loc>
     
     <lastmod>2020-08-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.mrzhangfish.tk/posts/4530.html</loc>
-    
-    <lastmod>2020-08-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.mrzhangfish.tk/posts/9f22.html</loc>
-    
-    <lastmod>2020-08-03</lastmod>
     
   </url>
   
@@ -44,21 +51,14 @@
   </url>
   
   <url>
-    <loc>https://www.mrzhangfish.tk/posts/64cb.html</loc>
+    <loc>https://www.mrzhangfish.tk/hello-world.html</loc>
     
     <lastmod>2020-08-02</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.mrzhangfish.tk/posts/3eeb.html</loc>
-    
-    <lastmod>2020-08-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.mrzhangfish.tk/posts/f6b1.html</loc>
+    <loc>https://www.mrzhangfish.tk/test-my-site.html</loc>
     
     <lastmod>2020-08-02</lastmod>
     
@@ -101,6 +101,41 @@
   </url>
 
   
+  <url>
+    <loc>https://www.mrzhangfish.tk/tags/TikTok/</loc>
+    <lastmod>2020-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/tags/vps/</loc>
+    <lastmod>2020-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/tags/%E6%8A%96%E9%9F%B3/</loc>
+    <lastmod>2020-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/categories/TikTok/</loc>
+    <lastmod>2020-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.mrzhangfish.tk/categories/vps/</loc>
+    <lastmod>2020-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
