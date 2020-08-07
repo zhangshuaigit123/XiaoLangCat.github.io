@@ -16,5 +16,5 @@ Disallow: /categories/
 
 
 
-Sitemap: https://www.mrzhangfish.tk/sitemap.xml
-Sitemap: https://www.mrzhangfish.tk/baidusitemap.xml
+Sitemap: https://blogs.gooutside.website/sitemap.xml
+Sitemap: https://blogs.gooutside.website/baidusitemap.xml
