@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blogs.gooutside.website/posts/18772.html</loc>
+    
+    <lastmod>2020-08-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blogs.gooutside.website/posts/18560.html</loc>
     
     <lastmod>2020-08-07</lastmod>
@@ -116,7 +123,7 @@
 
   <url>
     <loc>https://blogs.gooutside.website/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,21 +131,28 @@
   
   <url>
     <loc>https://blogs.gooutside.website/tags/TikTok/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogs.gooutside.website/tags/%E5%85%89%E5%88%BB%E6%9C%BA/</loc>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blogs.gooutside.website/tags/vps/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blogs.gooutside.website/tags/%E6%8A%96%E9%9F%B3/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -147,14 +161,21 @@
   
   <url>
     <loc>https://blogs.gooutside.website/categories/TikTok/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogs.gooutside.website/categories/%E5%85%89%E5%88%BB%E6%9C%BA/</loc>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blogs.gooutside.website/categories/vps/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
