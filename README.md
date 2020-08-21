@@ -14,9 +14,9 @@ VPN
 
 国际互联网  奈飞 HBO 
 
-免费节点 免费ssr节点 免费v2ray节点 免费trojan节点 免费ss节点
+免费节点 免费ssr节点 免费v2ray节点 免费trojan节点 免费ss节点  外贸  跨境电商  英美剧 日韩剧 影视剧  
 
-shadowrocket shadowsocksr clash v2rayN igniter surfboard Pharos Pro 苹果设备 安卓设备 pc mac 基本支持全平台系统 4k 8k 免费机场节点 订阅地址 Netflix 一切只为看片。
+shadowrocket shadowsocksr clash v2rayN igniter surfboard Pharos Pro 苹果设备 安卓设备 pc mac 基本支持全平台系统 4k 8k 免费机场节点 订阅地址 Netflix 一切只为看片。 
 
 具体使用方法如下：
 
